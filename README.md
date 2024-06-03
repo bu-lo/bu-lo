@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bu-lo / Chloé !
-- 👀 I’m interested in Developpement & Programation 💻✨ and sciences.
+- 👀 I’m interested in Developpement & Programation 💻✨ and Sciences.
 - 📚 Ongoing project: I'm currently completing a training of Application Developer (AFPA, Bordeaux).
 - 🚀 My current skills: Java, Python, C, CSS, HTML, JavaScript, & more to come !
 - 👩🏼‍💻 Portfolio & Projets: https://bu-lo.github.io/portfolio/
@@ -10,7 +10,7 @@
 - Chloé
 _________________________________________________________________________________________________________________________________
 - 👋 Hello, moi c'est @bu-lo / Chloé !
-- 👀 Je suis intéressée par le Développement informatique 💻✨ et les sciences en général.
+- 👀 Je suis intéressée par le Développement informatique 💻✨ et les Sciences en général.
 - 📚 Projet en cours: en formation Concepteur Développeur d'Applications avec l'AFPA Bordeaux (niv.6).
 - 🚀 Mes compétences actuelles: Java, Python, C, CSS, HTML, JavaScript & plus à l'avenir !
 - 👩🏼‍💻 Portfolio & Projets: https://bu-lo.github.io/portfolio/
