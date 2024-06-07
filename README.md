@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bu-lo / Chloé !
 - 👀 I’m interested in Developpement & Programation 💻✨ and Sciences.
-- 📚 Ongoing project: I'm currently completing a training of Application Developer (AFPA, Bordeaux).
+- 📚 Ongoing project : I'm currently completing a training of Application Developer (AFPA, Bordeaux).
 - 🔎 Looking for a 10 months unpaid intership from 6/1/25 to 28/3/25.
 - 🚀 My current skills: Java, Python, C, CSS, HTML, JavaScript, & more to come !
 - 📄 CV : https://cvdesignr.com/p/6662b0ef00cd9
