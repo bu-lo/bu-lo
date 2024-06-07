@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - 👋 Hello, moi c'est @bu-lo / Chloé !
 - 👀 Je suis intéressée par le Développement informatique 💻✨ et les Sciences en général.
 - 📚 Projet en cours: en formation Concepteur Développeur d'Applications avec l'AFPA Bordeaux (niv.6).
-- 🔎 A la recherche d'un stage non rémunéré de 10 mois du 6/1/25-28/3/25.
+- 🔎 A la recherche d'un stage non rémunéré de 10 mois du 6/1/25 au 28/3/25.
 - 🚀 Mes compétences actuelles: Java, Python, C, CSS, HTML, JavaScript & plus à l'avenir !
 - 📄 CV : https://cvdesignr.com/p/6662b0ef00cd9
 - 👩🏼‍💻 Portfolio & Projets: https://bu-lo.github.io/portfolio/
