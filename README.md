@@ -1,4 +1,4 @@
-@bu-lo / Chloé<br>
+@bu-lo / Chloé BOIVIN<br>
 
 📚 Projet en cours: en formation Concepteur Développeur d'Applications avec l'AFPA Bordeaux (niv.6).<br>
 🔎 A la recherche d'un stage non rémunéré de 10 semaines du 6/1/25 au 28/3/25.<br>
@@ -10,7 +10,7 @@ Portfolio & Projets: https://bu-lo.github.io/portfolio/<br>
 💉 Formation initiale: IBODE (Infirmière de Bloc Opératoire Diplômée d'Etat).
 
 ---------------------------------------------------------------------------------------------------------------------------------
-@bu-lo / Chloé<br>
+@bu-lo / Chloé BOIVIN<br>
 
 📚 Ongoing project : I'm currently completing an Application Developer training (AFPA, Bordeaux).<br>
 🔎 Looking for a 10 weeks unpaid intership from 6/1/25 to 28/3/25.<br>
