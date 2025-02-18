@@ -1,6 +1,5 @@
-@bu-lo / Chloé BOIVIN<br>
+@bu-lo / Chloé BOIVIN - Développeuse Frontend<br>
 
-Développeur Frontend<br>
 📚 Projet en cours: en formation Concepteur Développeur d'Applications avec l'AFPA Bordeaux (niv.6).<br>
 💻 Mes compétences actuelles: Angular, REACT, JavaScript, Java, Docker, SQL, MongoDB & plus à venir !<br>
 
@@ -10,9 +9,8 @@ Portfolio & Projets: https://bu-lo.github.io/portfolio/<br>
 💉 Formation initiale: IBODE (Infirmière de Bloc Opératoire Diplômée d'Etat).
 
 ---------------------------------------------------------------------------------------------------------------------------------
-@bu-lo / Chloé BOIVIN<br>
+@bu-lo / Chloé BOIVIN - Frontend Developer<br>
 
-Frontend Developer<br>
 📚 Ongoing project : I'm currently completing an Application Developer training (AFPA, Bordeaux).<br>
 💻 My current skills: Angular, REACT, JavaScript, Java, Docker, SQL, MongoDB & more to come !<br>
 
